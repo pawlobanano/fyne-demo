@@ -14,3 +14,9 @@ go run ./cmd/demo2/main.go
 ### Demo3
 go run ./cmd/demo3/main.go
 fyne package
+
+### Demo4 - TODO list app
+go run cmd/demo4/*
+
+Resources: 
+- https://github.com/fyne-io/workshops/tree/main/GoLab2024/todo
